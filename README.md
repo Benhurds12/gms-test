@@ -40,11 +40,9 @@ O site você acessaem: http://127.0.0.1:8080
     git clone https://github.com/Benhurds12/gms-test
     cd gms-test
     ```
-**Instale as dependências:**
+2. **Instale as dependências:**
     ```bash
-    
     npm install
-    
     ```
     
 
