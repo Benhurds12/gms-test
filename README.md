@@ -42,8 +42,11 @@ O site você acessaem: http://127.0.0.1:8080
     ```
 **Instale as dependências:**
     ```bash
+    
     npm install
+    
     ```
+    
 
 3.  **Execute os testes no modo interativo (Cypress Test Runner):**
     ```bash
